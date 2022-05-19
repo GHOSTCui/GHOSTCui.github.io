@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>LaTeX</title>
+      <link href="/2022/05/14/10-latex/"/>
+      <url>/2022/05/14/10-latex/</url>
+      
+        <content type="html"><![CDATA[<h1 id="LaTeX"><a href="#LaTeX" class="headerlink" title="LaTeX"></a>LaTeX</h1><h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><p>使用 <code>$...$</code> 或者 <code>$$...$$</code> 渲染数学表达式</p><h2 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$$</span><br><span class="line">f(x) = sin(x) + 12</span><br><span class="line">$$</span><br></pre></td></tr></table></figure><p>$$<br>f(x) = sin(x) + 12<br>$$</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$$</span><br><span class="line">\sum_&#123;i=1&#125;^n a_i^T b_i</span><br><span class="line">$$</span><br></pre></td></tr></table></figure><p>$$<br>\sum_{i=1}^n a_i^T b_i<br>$$</p><h2 id="符号"><a href="#符号" class="headerlink" title="符号"></a>符号</h2><table><thead><tr><th align="center">符号</th><th align="center">语法</th></tr></thead><tbody><tr><td align="center">$\varnothing$ – $\emptyset$</td><td align="center">\varnothing – \emptyset</td></tr></tbody></table><h2 id="希腊字母"><a href="#希腊字母" class="headerlink" title="希腊字母"></a>希腊字母</h2><table><thead><tr><th align="center">符号</th><th align="center">语法</th></tr></thead><tbody><tr><td align="center">$\alpha$ – A</td><td align="center">\alpha – A</td></tr><tr><td align="center">$\beta$ – B</td><td align="center">\beta – B</td></tr><tr><td align="center">$\gamma$ – $\Gamma$</td><td align="center">\gamma – \Gamma</td></tr><tr><td align="center">$\delta$ – $\Delta$</td><td align="center">\delta – \Delta</td></tr><tr><td align="center">$\epsilon$ – $\varepsilon$ – E</td><td align="center">\epsilon – \varepsilon – E</td></tr><tr><td align="center">$\eta$ – H</td><td align="center">\eta – H</td></tr><tr><td align="center">$\theta$ – $\vartheta$ – $\Theta$</td><td align="center">\theta – \vartheta – \Theta</td></tr><tr><td align="center">$\omega$ – $\Omega$</td><td align="center">\omega – \Omega</td></tr><tr><td align="center">$\kappa$ – K</td><td align="center">\kappa – K</td></tr><tr><td align="center">$\lambda$ – $\Lambda$</td><td align="center">\lambda – \Lambda</td></tr><tr><td align="center">$\mu$ – M</td><td align="center">\mu – M</td></tr><tr><td align="center">$\mu$ – N</td><td align="center">\mu – N</td></tr><tr><td align="center">$\xi$ – $\Xi$</td><td align="center">\xi – \Xi</td></tr><tr><td align="center">$\pi$ – $\Pi$</td><td align="center">\pi – \Pi</td></tr><tr><td align="center">$\rho$ – $\varrho$ – P</td><td align="center">\rho – \varrho – P</td></tr><tr><td align="center">$\sigma$ – $\Sigma$</td><td align="center">\sigma – \Sigma</td></tr><tr><td align="center">$\tau$ – T</td><td align="center">\tau – T</td></tr><tr><td align="center">$\upsilon$ – $\Upsilon$</td><td align="center">\upsilon – \Upsilon</td></tr><tr><td align="center">$\phi$ – $\varphi$ – $\Phi$</td><td align="center">\phi – \varphi – \Phi</td></tr><tr><td align="center">$\chi$ – X</td><td align="center">\chi – X</td></tr><tr><td align="center">$\psi$ – $\Psi$</td><td align="center">\psi – \Psi</td></tr><tr><td align="center">$\iota$</td><td align="center">\iota – \Iota</td></tr><tr><td align="center">o – O</td><td align="center">o – O</td></tr></tbody></table><blockquote><p>大写基本都能通过大写命令首字母实现</p></blockquote><h2 id="Pic"><a href="#Pic" class="headerlink" title="Pic"></a>Pic</h2><p><img src="/medias/markdown_pic/10/2018041621294865.png" alt="2018041621294865"></p><p><img src="/medias/markdown_pic/10/20180416213036844.png" alt="20180416213036844"></p><p><img src="/medias/markdown_pic/10/20180416213119987.png" alt="20180416213119987"></p><p><img src="/medias/markdown_pic/10/20180416213126857.png" alt="qs"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> LaTeX </tag>
+            
+            <tag> Math </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows Notes</title>
+      <link href="/2022/05/14/9-windows/"/>
+      <url>/2022/05/14/9-windows/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Windows-批处理"><a href="#Windows-批处理" class="headerlink" title="Windows 批处理"></a>Windows 批处理</h1><h2 id="开机自动重启以太网"><a href="#开机自动重启以太网" class="headerlink" title="开机自动重启以太网"></a>开机自动重启以太网</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">@<span class="built_in">echo</span> off</span><br><span class="line">netsh interface <span class="built_in">set</span> interface <span class="string">&quot;Ethernet&quot;</span> DISABLED</span><br><span class="line">timeout /t 1</span><br><span class="line">netsh interface <span class="built_in">set</span> interface <span class="string">&quot;Ethernet&quot;</span> ENABLED</span><br></pre></td></tr></table></figure><h2 id="关闭管理员确认提示"><a href="#关闭管理员确认提示" class="headerlink" title="关闭管理员确认提示"></a>关闭管理员确认提示</h2><p><code>控制面板\用户帐户\用户帐户</code></p><p><code>更改用户账户控制设置</code></p><p><img src="/medias/markdown_pic/9/image-20220313133037741.png" alt="image-20220313133037741"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SQLite</title>
+      <link href="/2022/04/29/6-sqlite/"/>
+      <url>/2022/04/29/6-sqlite/</url>
+      
+        <content type="html"><![CDATA[<h1 id="SQLite"><a href="#SQLite" class="headerlink" title="SQLite"></a>SQLite</h1><h2 id="创建数据库"><a href="#创建数据库" class="headerlink" title="创建数据库"></a>创建数据库</h2><h3 id="进入数据库系统"><a href="#进入数据库系统" class="headerlink" title="进入数据库系统"></a>进入数据库系统</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sqlite3</span><br></pre></td></tr></table></figure><h3 id="创建数据库-1"><a href="#创建数据库-1" class="headerlink" title="创建数据库"></a>创建数据库</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">.open [database_name]</span><br><span class="line">.quit</span><br></pre></td></tr></table></figure><h2 id="表"><a href="#表" class="headerlink" title="表"></a>表</h2><h3 id="添加表"><a href="#添加表" class="headerlink" title="添加表"></a>添加表</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">conn = sqlite3.connect(<span class="string">&quot;ip_db.db&quot;</span>)</span><br><span class="line">c = conn.cursor()</span><br><span class="line"></span><br><span class="line">sql = <span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">CREATE TABLE GET_IP(</span></span><br><span class="line"><span class="string">ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,# 自增ID</span></span><br><span class="line"><span class="string">IP TEXT,</span></span><br><span class="line"><span class="string">DATE TEXT,</span></span><br><span class="line"><span class="string">USERAGENT TEXT</span></span><br><span class="line"><span class="string">);</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line">c.execute(sql)</span><br><span class="line"></span><br><span class="line">conn.commit()</span><br><span class="line">conn.close()</span><br></pre></td></tr></table></figure><h3 id="删除表"><a href="#删除表" class="headerlink" title="删除表"></a>删除表</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">conn = sqlite3.connect(<span class="string">&quot;ip_db.db&quot;</span>)</span><br><span class="line">c = conn.cursor()</span><br><span class="line"></span><br><span class="line">sql = <span class="string">&quot;DROP TABLE GET_IP&quot;</span></span><br><span class="line">c.execute(sql)</span><br><span class="line"></span><br><span class="line">conn.commit()</span><br><span class="line">conn.close()</span><br></pre></td></tr></table></figure><h3 id="添加-删除列"><a href="#添加-删除列" class="headerlink" title="添加/删除列"></a>添加/删除列</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">conn = sqlite3.connect(<span class="string">&quot;ip_db.db&quot;</span>)</span><br><span class="line">c = conn.cursor()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加</span></span><br><span class="line">sql = <span class="string">&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">ALTER TABLE GET_IP ADD COLUMN USERAGENT TEXT</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 删除</span></span><br><span class="line">sql2 = <span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"><span class="string">ALTER TABLE GET_IP DROP COLUMN USERAGENT TEXT</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"></span><br><span class="line">c.execute(sql)</span><br><span class="line">c.execute(sql2)</span><br><span class="line"></span><br><span class="line">conn.commit()</span><br><span class="line">conn.close()</span><br></pre></td></tr></table></figure><h2 id="数据"><a href="#数据" class="headerlink" title="数据"></a>数据</h2><h3 id="追加"><a href="#追加" class="headerlink" title="追加"></a>追加</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">conn = sqlite3.connect(<span class="string">&quot;ip_db.db&quot;</span>)</span><br><span class="line">c = conn.cursor()</span><br><span class="line"></span><br><span class="line">sql = <span class="string">f&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">insert into GET_IP(ID, IP, DATE)</span></span><br><span class="line"><span class="string">values(<span class="subst">&#123; <span class="built_in">id</span> &#125;</span>,&#x27;<span class="subst">&#123; ip &#125;</span>&#x27;,&#x27;<span class="subst">&#123; nowdate &#125;</span>&#x27;)</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line">c.execute(sql)</span><br><span class="line"></span><br><span class="line">conn.commit()</span><br><span class="line">conn.close()</span><br></pre></td></tr></table></figure><h3 id="查询"><a href="#查询" class="headerlink" title="查询"></a>查询</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">conn = sqlite3.connect(<span class="string">&quot;ip_db.db&quot;</span>)</span><br><span class="line">c = conn.cursor()</span><br><span class="line"></span><br><span class="line">sql = <span class="string">f&quot;&quot;&quot;</span></span><br><span class="line"><span class="string">select * from ip_db.db</span></span><br><span class="line"><span class="string">&quot;&quot;&quot;</span></span><br><span class="line">information = c.execute(sql)</span><br><span class="line"></span><br><span class="line">conn.commit()</span><br><span class="line">conn.close()</span><br></pre></td></tr></table></figure><h2 id="容器"><a href="#容器" class="headerlink" title="容器"></a>容器</h2><h3 id="进入容器环境"><a href="#进入容器环境" class="headerlink" title="进入容器环境"></a>进入容器环境</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">docker <span class="built_in">exec</span> -it [容器ID] /bin/bash</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> SQLite </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Git</title>
+      <link href="/2022/04/26/7-git/"/>
+      <url>/2022/04/26/7-git/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Git-Notes"><a href="#Git-Notes" class="headerlink" title="Git Notes"></a>Git Notes</h1><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><p>官网：<a href="https://git-scm.com/">https://git-scm.com/</a></p><p>下载界面：<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a></p><h2 id="配置文件"><a href="#配置文件" class="headerlink" title="配置文件"></a>配置文件</h2><h3 id="查看配置"><a href="#查看配置" class="headerlink" title="查看配置"></a>查看配置</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --system --list    <span class="comment"># 系统配置</span></span><br><span class="line">git config --global --list   <span class="comment"># 用户配置</span></span><br></pre></td></tr></table></figure><h3 id="配置个人用户名、电子邮件："><a href="#配置个人用户名、电子邮件：" class="headerlink" title="配置个人用户名、电子邮件："></a>配置个人用户名、电子邮件：</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;ghostc&quot;</span></span><br><span class="line">git config --global user.email 872143263@qq.com</span><br></pre></td></tr></table></figure><h3 id="个人配置文件路径（Mac）"><a href="#个人配置文件路径（Mac）" class="headerlink" title="个人配置文件路径（Mac）"></a>个人配置文件路径（Mac）</h3><p><code>/Users/ghost7/.gitconfig</code></p><h2 id="Git-流程"><a href="#Git-流程" class="headerlink" title="Git 流程"></a>Git 流程</h2><h3 id="工作流程"><a href="#工作流程" class="headerlink" title="工作流程"></a>工作流程</h3><p><img src="Git.assets/git-process.png" alt="img"></p><h3 id="文件转换关系："><a href="#文件转换关系：" class="headerlink" title="文件转换关系："></a>文件转换关系：</h3><p><img src="Git.assets/kuangstudy2a57b7ec-fa7d-49c9-9992-2e2a32a7bf5b.png" alt="img"></p><h2 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h2><h3 id="初始化一个仓库"><a href="#初始化一个仓库" class="headerlink" title="初始化一个仓库"></a>初始化一个仓库</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 到所需的目录</span></span><br><span class="line">git init</span><br><span class="line"><span class="comment"># 或者直接指定目录</span></span><br><span class="line">git init [path]</span><br></pre></td></tr></table></figure><h3 id="跟踪文件"><a href="#跟踪文件" class="headerlink" title="跟踪文件"></a>跟踪文件</h3><p>即添加文件到暂存区：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git add .     <span class="comment"># 跟踪所有文件</span></span><br><span class="line">git add [File]<span class="comment"># 跟踪指定文件</span></span><br></pre></td></tr></table></figure><h3 id="提交到仓库"><a href="#提交到仓库" class="headerlink" title="提交到仓库"></a>提交到仓库</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git commit -m <span class="string">&#x27;[message]&#x27;</span><span class="comment"># message 为说明信息</span></span><br><span class="line"><span class="comment"># Windows 中用双引号</span></span><br></pre></td></tr></table></figure><h3 id="克隆仓库"><a href="#克隆仓库" class="headerlink" title="克隆仓库"></a>克隆仓库</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> [link]     <span class="comment"># 从链接中克隆</span></span><br><span class="line">git <span class="built_in">clone</span> [link] [dir]<span class="comment"># 克隆到指定目录</span></span><br></pre></td></tr></table></figure><blockquote><p>本地克隆的话，将 [link] 替换为 [dir] 即可</p></blockquote><h3 id="其他命令"><a href="#其他命令" class="headerlink" title="其他命令"></a>其他命令</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">git status<span class="comment"># 查看仓库当前状态</span></span><br><span class="line">git diff<span class="comment"># 比较文件到不同，即暂存区和工作区的差异</span></span><br><span class="line">git reset<span class="comment"># 回退版本</span></span><br><span class="line">git rm<span class="comment"># 删除工作区文件</span></span><br><span class="line">git mv<span class="comment"># 移动或重命名工作区文件</span></span><br><span class="line"></span><br><span class="line">git <span class="built_in">log</span><span class="comment"># 查看历史提交记录</span></span><br><span class="line">git blame &lt;file&gt;<span class="comment"># 以列表形式查看指定文件的历史修改记录</span></span><br><span class="line"></span><br><span class="line">git remote<span class="comment"># 远程仓库操作</span></span><br><span class="line">git fetch<span class="comment"># 从远程获取代码库</span></span><br><span class="line">git pull<span class="comment"># 下载远程代码并合并</span></span><br><span class="line">git push<span class="comment"># 上传远程代码并合并</span></span><br></pre></td></tr></table></figure><h2 id="分支"><a href="#分支" class="headerlink" title="分支"></a>分支</h2><h3 id="创建分支"><a href="#创建分支" class="headerlink" title="创建分支"></a>创建分支</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git branch [分支名]</span><br></pre></td></tr></table></figure><h3 id="切换分支"><a href="#切换分支" class="headerlink" title="切换分支"></a>切换分支</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout [分支名]</span><br></pre></td></tr></table></figure><h3 id="合并分支"><a href="#合并分支" class="headerlink" title="合并分支"></a>合并分支</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git merge [分支名]<span class="comment"># 合并某一分支到当前分支</span></span><br></pre></td></tr></table></figure><h3 id="列出所有分支"><a href="#列出所有分支" class="headerlink" title="列出所有分支"></a>列出所有分支</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git branch</span><br></pre></td></tr></table></figure><h3 id="删除分支"><a href="#删除分支" class="headerlink" title="删除分支"></a>删除分支</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git branch -d [分支名]</span><br></pre></td></tr></table></figure><h3 id="解决分支合并冲突"><a href="#解决分支合并冲突" class="headerlink" title="解决分支合并冲突"></a>解决分支合并冲突</h3><p>手动修改冲突内容，</p><p>并用 <code>add</code> 命令重新提交</p><h2 id="查看提交历史（详细）"><a href="#查看提交历史（详细）" class="headerlink" title="查看提交历史（详细）"></a>查看提交历史（详细）</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">log</span><span class="comment"># 查看历史提交记录</span></span><br></pre></td></tr></table></figure><blockquote><p>–oneline    :     查看简介版本</p><p>–graph    :    查看分支合并</p><p>–reverse    :    逆向显示所有日志</p><p>–author ‘user’    :    筛选作者</p><p>筛选日期:</p><blockquote><p>–before={3.week.age}</p><p>–after={2022-04-20}</p><p>–until</p><p>–after</p></blockquote></blockquote><h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><h3 id="为最近的-Commit-添加一个-Tag"><a href="#为最近的-Commit-添加一个-Tag" class="headerlink" title="为最近的 Commit 添加一个 Tag"></a>为最近的 Commit 添加一个 Tag</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git tag -a [tag] -m <span class="string">&#x27;[message]&#x27;</span></span><br></pre></td></tr></table></figure><h3 id="为指定-Commit-追加-Tag"><a href="#为指定-Commit-追加-Tag" class="headerlink" title="为指定 Commit 追加 Tag"></a>为指定 Commit 追加 Tag</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git tag -a [tag] [commit_id]</span><br></pre></td></tr></table></figure><h3 id="查看所有标签"><a href="#查看所有标签" class="headerlink" title="查看所有标签"></a>查看所有标签</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git tag</span><br><span class="line"><span class="comment"># 或</span></span><br><span class="line">git tag -l</span><br></pre></td></tr></table></figure><h3 id="删除标签"><a href="#删除标签" class="headerlink" title="删除标签"></a>删除标签</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git tag -d [tag]</span><br></pre></td></tr></table></figure><h3 id="读取标签信息"><a href="#读取标签信息" class="headerlink" title="读取标签信息"></a>读取标签信息</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git tag -n</span><br></pre></td></tr></table></figure><h3 id="查看标签详细信息"><a href="#查看标签详细信息" class="headerlink" title="查看标签详细信息"></a>查看标签详细信息</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git tag -v [tag]</span><br></pre></td></tr></table></figure><h2 id="Push-到云服务器"><a href="#Push-到云服务器" class="headerlink" title="Push 到云服务器"></a>Push 到云服务器</h2><p>需要提前在服务器上初始化</p><p>然后</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push root@8.130.164.106:/root/markdown_test [本地分支名]:[远程分支名]</span><br></pre></td></tr></table></figure><h3 id="拉取同理"><a href="#拉取同理" class="headerlink" title="拉取同理"></a>拉取同理</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git pull root@8.130.164.106:/root/markdown_test [远程分支名]:[本地分支名]</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> Github </tag>
+            
+            <tag> Git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Jupyter Notebook Notes</title>
+      <link href="/2022/04/12/12-jupyternotebook/"/>
+      <url>/2022/04/12/12-jupyternotebook/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Jupyter-Notebook-使用"><a href="#Jupyter-Notebook-使用" class="headerlink" title="Jupyter Notebook 使用"></a>Jupyter Notebook 使用</h1><h2 id="Conda-环境下安装"><a href="#Conda-环境下安装" class="headerlink" title="Conda 环境下安装"></a>Conda 环境下安装</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda install jupyter notebook</span><br></pre></td></tr></table></figure><h2 id="启动"><a href="#启动" class="headerlink" title="启动"></a>启动</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">jupyter notebook</span><br></pre></td></tr></table></figure><p>默认端口号为：<code>localhost:8888</code></p><h2 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h2><h3 id="命令模式下（编辑模式下按-ESC-进入）"><a href="#命令模式下（编辑模式下按-ESC-进入）" class="headerlink" title="命令模式下（编辑模式下按 ESC 进入）"></a>命令模式下（编辑模式下按 ESC 进入）</h3><ol><li><strong>Enter :</strong> 转入编辑模式</li><li><strong>Shift-Enter :</strong> 运行本单元，选中下个单元</li><li><strong>Ctrl-Enter :</strong> 运行本单元</li><li><strong>Alt-Enter :</strong> 运行本单元，在其下插入新单元</li><li><strong>Y :</strong> 单元转入代码状态</li><li>**M :**单元转入markdown状态</li><li><strong>R :</strong> 单元转入raw状态</li><li>设定 1 级标题</li><li>设定 2 级标题</li><li>设定 3 级标题</li><li>设定 4 级标题</li><li>设定 5 级标题</li><li>设定 6 级标题</li><li><strong>Up :</strong> 选中上方单元</li><li><strong>K :</strong> 选中上方单元</li><li><strong>Down :</strong> 选中下方单元</li><li><strong>J :</strong> 选中下方单元</li><li><strong>Shift-K :</strong> 扩大选中上方单元</li><li><strong>Shift-J :</strong> 扩大选中下方单元</li><li><strong>A :</strong> 在上方插入新单元</li><li><strong>B :</strong> 在下方插入新单元</li><li><strong>X :</strong> 剪切选中的单元</li><li><strong>C :</strong> 复制选中的单元</li><li><strong>Shift-V :</strong> 粘贴到上方单元</li><li><strong>V :</strong> 粘贴到下方单元</li><li><strong>Z :</strong> 恢复删除的最后一个单元</li><li><strong>D,D :</strong> 删除选中的单元</li><li><strong>Shift-M :</strong> 合并选中的单元</li><li><strong>Ctrl-S :</strong> 文件存盘</li><li><strong>S :</strong> 文件存盘</li><li><strong>L :</strong> 转换行号</li><li><strong>O :</strong> 转换输出</li><li><strong>Shift-O :</strong> 转换输出滚动</li><li><strong>Esc :</strong> 关闭页面</li><li><strong>Q :</strong> 关闭页面</li><li><strong>H :</strong> 显示快捷键帮助</li><li><strong>I,I :</strong> 中断Notebook内核</li><li><strong>0,0 :</strong> 重启Notebook内核</li><li><strong>Shift :</strong> 忽略</li><li><strong>Shift-Space :</strong> 向上滚动</li><li><strong>Space :</strong> 向下滚动</li></ol><h3 id="编辑模式下"><a href="#编辑模式下" class="headerlink" title="编辑模式下"></a>编辑模式下</h3><ol><li><strong>Tab :</strong> 代码补全或缩进</li><li><strong>Shift-Tab :</strong> 提示</li><li><strong>Ctrl-] :</strong> 缩进</li><li><strong>Ctrl-[ :</strong> 解除缩进</li><li><strong>Ctrl-A :</strong> 全选</li><li><strong>Ctrl-Z :</strong> 复原</li><li><strong>Ctrl-Shift-Z :</strong> 再做</li><li><strong>Ctrl-Y :</strong> 再做</li><li><strong>Ctrl-Home :</strong> 跳到单元开头</li><li><strong>Ctrl-Up :</strong> 跳到单元开头</li><li><strong>Ctrl-End :</strong> 跳到单元末尾</li><li><strong>Ctrl-Down :</strong> 跳到单元末尾</li><li><strong>Ctrl-Left :</strong> 跳到左边一个字首</li><li><strong>Ctrl-Right :</strong> 跳到右边一个字首</li><li><strong>Ctrl-Backspace :</strong> 删除前面一个字</li><li><strong>Ctrl-Delete :</strong> 删除后面一个字</li><li><strong>Esc :</strong> 进入命令模式</li><li><strong>Ctrl-M :</strong> 进入命令模式</li><li><strong>Shift-Enter :</strong> 运行本单元，选中下一单元</li><li><strong>Ctrl-Enter :</strong> 运行本单元</li><li><strong>Alt-Enter :</strong> 运行本单元，在下面插入一单元</li><li><strong>Ctrl-Shift– :</strong> 分割单元</li><li><strong>Ctrl-Shift-Subtract :</strong> 分割单元</li><li><strong>Ctrl-S :</strong> 文件存盘</li><li><strong>Shift :</strong> 忽略</li><li><strong>Up :</strong> 光标上移或转入上一单元</li><li><strong>Down :</strong> 光标下移或转入下一单元</li></ol><hr><p>参考链接：<a href="https://zhuanlan.zhihu.com/p/100020058">https://zhuanlan.zhihu.com/p/100020058</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> JupyterNotebook </tag>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Wake on Lan</title>
+      <link href="/2022/04/09/8-wol/"/>
+      <url>/2022/04/09/8-wol/</url>
+      
+        <content type="html"><![CDATA[<h1 id="WOL"><a href="#WOL" class="headerlink" title="WOL"></a>WOL</h1><h2 id="BIOS-中"><a href="#BIOS-中" class="headerlink" title="BIOS 中"></a>BIOS 中</h2><p>以 MSI 主板的 BIOS 为例：</p><ol><li>高级–整合周边设备–网卡ROM启动，设置为允许</li><li>高级–电源管理设置–Erp ，设置为禁止</li><li>高级–唤醒事件设置–PCIE设备唤醒，设置为允许</li></ol><h2 id="Windows-11-中"><a href="#Windows-11-中" class="headerlink" title="Windows 11 中"></a>Windows 11 中</h2><h3 id="关闭快速启动"><a href="#关闭快速启动" class="headerlink" title="关闭快速启动"></a>关闭快速启动</h3><p><img src="/medias/markdown_pic/8/Win-20220406-155306.png" alt="屏幕截图 2022-04-06 155306"></p><h3 id="对网卡进行设置"><a href="#对网卡进行设置" class="headerlink" title="对网卡进行设置"></a>对网卡进行设置</h3><p><img src="/medias/markdown_pic/8/Win-20220406-155239.png" alt="屏幕截图 2022-04-06 155239"></p><h2 id="路由器中"><a href="#路由器中" class="headerlink" title="路由器中"></a>路由器中</h2><p>以 D191G 路由器为例</p><p>将 IP 地址与 MAC 地址绑定</p><p>并记下 IP 与 MAC 地址</p><p><img src="/medias/markdown_pic/8/Win-20220407-215805.png" alt="截屏2022-04-07 21.58.05"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> wol </tag>
+            
+            <tag> PC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Conda Notes</title>
+      <link href="/2022/03/12/13-conda/"/>
+      <url>/2022/03/12/13-conda/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Conda-Notes"><a href="#Conda-Notes" class="headerlink" title="Conda Notes"></a>Conda Notes</h1><h3 id="查看已有的环境"><a href="#查看已有的环境" class="headerlink" title="查看已有的环境"></a>查看已有的环境</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda info -e</span><br></pre></td></tr></table></figure><h3 id="建立一个名为dagan的新环境，并指定python的版本"><a href="#建立一个名为dagan的新环境，并指定python的版本" class="headerlink" title="建立一个名为dagan的新环境，并指定python的版本"></a>建立一个名为dagan的新环境，并指定python的版本</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda create -n dagan python=3.5</span><br></pre></td></tr></table></figure><h3 id="进入名为dagan的虚拟环境"><a href="#进入名为dagan的虚拟环境" class="headerlink" title="进入名为dagan的虚拟环境"></a>进入名为dagan的虚拟环境</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda activate dagan</span><br></pre></td></tr></table></figure><h3 id="退出"><a href="#退出" class="headerlink" title="退出"></a>退出</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda deactivate</span><br></pre></td></tr></table></figure><h3 id="取消自动进入base环境"><a href="#取消自动进入base环境" class="headerlink" title="取消自动进入base环境"></a>取消自动进入base环境</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda config --set auto_activate_base false</span><br></pre></td></tr></table></figure><h3 id="恢复自动进入"><a href="#恢复自动进入" class="headerlink" title="恢复自动进入"></a>恢复自动进入</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">conda config --set auto_activate_base true</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> Python </tag>
+            
+            <tag> Conda </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CSGO 单机房间设置</title>
+      <link href="/2022/02/07/5-csgo-fu-wu-qi-jian-she/"/>
+      <url>/2022/02/07/5-csgo-fu-wu-qi-jian-she/</url>
+      
+        <content type="html"><![CDATA[<h1 id="CSGO-单机房间设置"><a href="#CSGO-单机房间设置" class="headerlink" title="CSGO 单机房间设置"></a>CSGO 单机房间设置</h1><h2 id="安装-7Launcher-（可选）"><a href="#安装-7Launcher-（可选）" class="headerlink" title="安装 7Launcher （可选）"></a>安装 7Launcher （可选）</h2><p>鉴于并不需要网络，可选择安装 7Launcher 下的单机版，有全皮肤贴纸可以体验，足以提供一个舒服的游戏体验（</p><p><strong>官网地址为：<a href="https://7launcher.com/?lang=zh">https://7launcher.com/?lang=zh</a></strong></p><h2 id="进入主界面，开设机器人房"><a href="#进入主界面，开设机器人房" class="headerlink" title="进入主界面，开设机器人房"></a>进入主界面，开设机器人房</h2><p><img src="/medias/markdown_pic/5/win-2202072111.png" alt="主界面"></p><h2 id="调试房间设置"><a href="#调试房间设置" class="headerlink" title="调试房间设置"></a>调试房间设置</h2><h3 id="按-打开控制台"><a href="#按-打开控制台" class="headerlink" title="按 ~  打开控制台"></a>按 <code>~</code>  打开控制台</h3><p><img src="/medias/markdown_pic/5/win-2202072115.png" alt="控制台"></p><h4 id="修改游戏最大局数"><a href="#修改游戏最大局数" class="headerlink" title="修改游戏最大局数"></a>修改游戏最大局数</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">mp_maxrounds 100# 修改最大局数为 100 局</span><br></pre></td></tr></table></figure><h4 id="修改人数平衡"><a href="#修改人数平衡" class="headerlink" title="修改人数平衡"></a>修改人数平衡</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">mp_autoteambalance 0 # 关闭双方人数自动平衡</span><br><span class="line">mp_limitteams 5# 两队最大差异人数为 5 人 </span><br></pre></td></tr></table></figure><h4 id="添加-删除-bot"><a href="#添加-删除-bot" class="headerlink" title="添加/删除 bot:"></a>添加/删除 bot:</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">bot_add_t# 添加一个 T 方 bot</span><br><span class="line">bot_add_ct# 添加一个 CT 方 bot</span><br><span class="line"></span><br><span class="line">bot_kick_t# 删除一个 T 方 bot</span><br><span class="line">bot_kick_ct# 删除一个 CT 方 bot</span><br></pre></td></tr></table></figure><hr><h3 id="以上是我自己平常使用的配置，接下来提供一些其他的自定义配置"><a href="#以上是我自己平常使用的配置，接下来提供一些其他的自定义配置" class="headerlink" title="以上是我自己平常使用的配置，接下来提供一些其他的自定义配置"></a>以上是我自己平常使用的配置，接下来提供一些其他的自定义配置</h3><hr><h4 id="关于-Bot"><a href="#关于-Bot" class="headerlink" title="关于 Bot"></a>关于 Bot</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">bot_freeze 0/1 # 冻结 BOT</span><br><span class="line"></span><br><span class="line">bot_knives_only # BOT 只准使用刀</span><br><span class="line"></span><br><span class="line">bot_pistols_only # BOT 只准使用手枪</span><br><span class="line"></span><br><span class="line">bot_snipers_only # BOT 只准使用狙击枪</span><br><span class="line"></span><br><span class="line">bot_all_weapons # BOT 可以使用所有武器</span><br><span class="line"></span><br><span class="line">bot_difficulty [0-3] # BOT 难度，0最难，3最简单 (默认最难)</span><br><span class="line"></span><br><span class="line">bot_allow_pistols [0,1] # BOT是否可以用手枪，1允许，2禁止 (下同)</span><br><span class="line"></span><br><span class="line">bot_allow_shotguns [0,1] # BOT是否可以用散弹枪(2类枪)</span><br><span class="line"></span><br><span class="line">bot_allow_sub_machine_guns [0,1] # BOT是否可以用冲锋枪(3类枪)</span><br><span class="line"></span><br><span class="line">bot_allow_rifles [0,1] # BOT 是否可以用来复枪(4类枪)</span><br><span class="line"></span><br><span class="line">bot_allow_machine_guns [0,1] # BOT 是否可以用重机枪(5类枪)</span><br><span class="line"></span><br><span class="line">bot_allow_snipers [0,1] # BOT 是否可以用狙击枪</span><br><span class="line"></span><br><span class="line">bot_allow_grenades [0,1] # BOT 是否可以用手雷</span><br><span class="line"></span><br><span class="line">bot_allow_rogues [0,1] # BOT 是否可以游手好闲</span><br></pre></td></tr></table></figure><h4 id="连跳指令"><a href="#连跳指令" class="headerlink" title="连跳指令"></a>连跳指令</h4><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">sv_enablebunnyhopping 1# 开启连跳</span><br><span class="line">sv_autobunnyhopping 1# 开启自动连跳</span><br><span class="line">sv_airaccelerate 2000# 空气阻力值</span><br></pre></td></tr></table></figure><hr><p><strong>参考链接：<a href="https://blog.csdn.net/u014443578/article/details/85376223">https://blog.csdn.net/u014443578/article/details/85376223</a></strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Game </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> CS:GO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ffmpeg</title>
+      <link href="/2022/02/04/11-ffmpeg/"/>
+      <url>/2022/02/04/11-ffmpeg/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ffmpeg-Notes"><a href="#ffmpeg-Notes" class="headerlink" title="ffmpeg Notes"></a>ffmpeg Notes</h1><h2 id="裁切"><a href="#裁切" class="headerlink" title="裁切"></a>裁切</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">ffmpeg  -i ./plutopr.mp4 -vcodec copy -acodec copy -ss 00:00:10 -to 00:00:15 ./cutout1.mp4 -y</span><br><span class="line"></span><br><span class="line">-ss time_off        set the start time offset 设置从视频的哪个时间点开始截取，上文从视频的第10s开始截取</span><br><span class="line">-to 截到视频的哪个时间点结束。上文到视频的第15s结束。截出的视频共5s.</span><br><span class="line">如果用-t 表示截取多长的时间如 上文-to 换位-t则是截取从视频的第10s开始，截取15s时长的视频。即截出来的视频共15s.</span><br><span class="line"></span><br><span class="line">注意的地方是：</span><br><span class="line"> 如果将-ss放在-i ./plutopr.mp4后面则-to的作用就没了，跟-t一样的效果了，变成了截取多长视频。一定要注意-ss的位置。</span><br><span class="line"></span><br><span class="line">参数解析</span><br><span class="line">-vcodec copy表示使用跟原视频一样的视频编解码器。</span><br><span class="line">-acodec copy表示使用跟原视频一样的音频编解码器。</span><br><span class="line"></span><br><span class="line">-i 表示源视频文件</span><br><span class="line">-y 表示如果输出文件已存在则覆盖。</span><br></pre></td></tr></table></figure><h4 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ffmpeg  -i <span class="string">&quot;D:\GameScreenshots\NV Video\Red Dead Redemption 2\Red Dead Redemption 2 2022.01.10 - 17.35.12.04.DVR.mp4&quot;</span> -vcodec copy -acodec copy -ss 00:02:50 -to 00:05:00 <span class="string">&quot;D:\GameScreenshots\NV Video\Red Dead Redemption 2\Red Dead Redemption 2 2022.01.10 - 17.35.12.04.mp4&quot;</span></span><br></pre></td></tr></table></figure><h2 id="压缩"><a href="#压缩" class="headerlink" title="压缩"></a>压缩</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">-s : 压缩分辨率</span><br><span class="line">ffmpeg -i inputfile -s 1920*1080 outputfile</span><br><span class="line"></span><br><span class="line">-fs : 输出文件最大大小</span><br><span class="line">ffmpeg -i inputfile -fs 20MB outputfile</span><br></pre></td></tr></table></figure><h2 id="参数汇总"><a href="#参数汇总" class="headerlink" title="参数汇总"></a>参数汇总</h2><table><thead><tr><th>基本选项:</th><th></th></tr></thead><tbody><tr><td>-formats</td><td>输出所有可用格式</td></tr><tr><td>-f fmt</td><td>指定格式(音频或视频格式)</td></tr><tr><td>-i filename</td><td>指定输入文件名，在linux下当然也能指定:0.0(屏幕录制)或摄像头</td></tr><tr><td>-y</td><td>覆盖已有文件</td></tr><tr><td>-t duration</td><td>记录时长为t</td></tr><tr><td>-fs limit_size</td><td>设置文件大小上限</td></tr><tr><td>-ss time_off</td><td>从指定的时间(s)开始， [-]hh:mm:ss[.xxx]的格式也支持</td></tr><tr><td>-itsoffset time_off</td><td>设置时间偏移(s)，该选项影响所有后面的输入文件。该偏移被加到输入文件的时戳，定义一个正偏移意味着相应的流被延迟了 offset秒。 [-]hh:mm:ss[.xxx]的格式也支持</td></tr><tr><td>-title string</td><td>标题</td></tr><tr><td>-timestamp time</td><td>时间戳</td></tr><tr><td>-author string</td><td>作者</td></tr><tr><td>-copyright string</td><td>版权信息</td></tr><tr><td>-comment string</td><td>评论</td></tr><tr><td>-album string</td><td>album名</td></tr><tr><td>-v verbose</td><td>与log相关的</td></tr><tr><td>-target type</td><td>设置目标文件类型(“vcd”, “svcd”, “dvd”, “dv”, “dv50”, “pal-vcd”, “ntsc-svcd”, …)</td></tr><tr><td>-dframes number</td><td>设置要记录的帧数</td></tr><tr><td>视频选项:</td><td></td></tr><tr><td>-b</td><td>指定比特率(bits/s)，似乎ffmpeg是自动VBR的，指定了就大概是平均比特率</td></tr><tr><td>-bitexact</td><td>使用标准比特率</td></tr><tr><td>-vb</td><td>指定视频比特率(bits/s)</td></tr><tr><td>-vframes number</td><td>设置转换多少桢(frame)的视频</td></tr><tr><td>-r rate</td><td>帧速率(fps) （可以改，确认非标准桢率会导致音画不同步，所以只能设定为15或者29.97）</td></tr><tr><td>-s size</td><td>指定分辨率 (320x240)</td></tr><tr><td>-aspect aspect</td><td>设置视频长宽比(4:3, 16:9 or 1.3333, 1.7777)</td></tr><tr><td>-croptop size</td><td>设置顶部切除尺寸(in pixels)</td></tr><tr><td>-cropbottom size</td><td>设置底部切除尺寸(in pixels)</td></tr><tr><td>-cropleft size</td><td>设置左切除尺寸 (in pixels)</td></tr><tr><td>-cropright size</td><td>设置右切除尺寸 (in pixels)</td></tr><tr><td>-padtop size</td><td>设置顶部补齐尺寸(in pixels)</td></tr><tr><td>-padbottom size</td><td>底补齐(in pixels)</td></tr><tr><td>-padleft size</td><td>左补齐(in pixels)</td></tr><tr><td>-padright size</td><td>右补齐(in pixels)</td></tr><tr><td>-padcolor color</td><td>补齐带颜色(000000-FFFFFF)</td></tr><tr><td>-vn</td><td>取消视频</td></tr><tr><td>-vcodec codec</td><td>强制使用codec编解码方式(‘copy’ to copy stream)</td></tr><tr><td>-sameq</td><td>使用同样视频质量作为源（VBR）</td></tr><tr><td>-pass n</td><td>选择处理遍数（1或者2）。两遍编码非常有用。第一遍生成统计信息，第二遍生成精确的请求的码率</td></tr><tr><td>-passlogfile file</td><td>选择两遍的纪录文件名为file</td></tr><tr><td>-newvideo</td><td>在现在的视频流后面加入新的视频流</td></tr><tr><td></td><td></td></tr><tr><td>高级视频选项</td><td></td></tr><tr><td>-pix_fmt format</td><td>set pixel format, ‘list’ as argument shows all the pixel formats supported</td></tr><tr><td>-intra</td><td>仅适用帧内编码</td></tr><tr><td>-qscale q</td><td>以&lt;数值&gt;质量为基础的VBR，取值0.01-255，约小质量越好</td></tr><tr><td>-loop_input</td><td>设置输入流的循环数(目前只对图像有效)</td></tr><tr><td>-loop_output</td><td>设置输出视频的循环数，比如输出gif时设为0表示无限循环</td></tr><tr><td>-g int</td><td>设置图像组大小</td></tr><tr><td>-cutoff int</td><td>设置截止频率</td></tr><tr><td>-qmin int</td><td>设定最小质量，与-qmax（设定最大质量）共用，比如-qmin 10 -qmax 31</td></tr><tr><td>-qmax int</td><td>设定最大质量</td></tr><tr><td>-qdiff int</td><td>量化标度间最大偏差 (VBR)</td></tr><tr><td>-bf int</td><td>使用frames B 帧，支持mpeg1,mpeg2,mpeg4</td></tr><tr><td>音频选项:</td><td></td></tr><tr><td>-ab</td><td>设置比特率(单位：bit/s，也许老版是kb/s)前面-ac设为立体声时要以一半比特率来设置，比如192kbps的就设成96，转换 默认比特率都较小，要听到较高品质声音的话建议设到160kbps（80）以上。</td></tr><tr><td>-aframes number</td><td>设置转换多少桢(frame)的音频</td></tr><tr><td>-aq quality</td><td>设置音频质量 (指定编码)</td></tr><tr><td>-ar rate</td><td>设置音频采样率 (单位：Hz)，PSP只认24000</td></tr><tr><td>-ac channels</td><td>设置声道数，1就是单声道，2就是立体声，转换单声道的TVrip可以用1（节省一半容量），高品质的DVDrip就可以用2</td></tr><tr><td>-an</td><td>取消音频</td></tr><tr><td>-acodec codec</td><td>指定音频编码(‘copy’ to copy stream)</td></tr><tr><td>-vol volume</td><td>设置录制音量大小(默认为256) &lt;百分比&gt; ，某些DVDrip的AC3轨音量极小，转换时可以用这个提高音量，比如200就是原来的2倍</td></tr><tr><td>-newaudio</td><td>在现在的音频流后面加入新的音频流</td></tr><tr><td>字幕选项:</td><td></td></tr><tr><td>-sn</td><td>取消字幕</td></tr><tr><td>-scodec codec</td><td>设置字幕编码(‘copy’ to copy stream)</td></tr><tr><td>-newsubtitle</td><td>在当前字幕后新增</td></tr><tr><td>-slang code</td><td>设置字幕所用的ISO 639编码(3个字母)</td></tr><tr><td>Audio/Video 抓取选项:</td><td></td></tr><tr><td>-vc channel</td><td>设置视频捕获通道(只对DV1394)</td></tr><tr><td>-tvstd standard</td><td>设置电视标准 NTSC PAL(SECAM)</td></tr></tbody></table><hr><p><strong>参考链接：<a href="https://www.cnblogs.com/mwl523/p/10856633.html">https://www.cnblogs.com/mwl523/p/10856633.html</a></strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> ffmpeg </tag>
+            
+            <tag> video </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>使用 Hexo 搭建个人博客</title>
+      <link href="/2022/01/29/4-shi-yong-hexo-da-jian-ge-ren-bo-ke/"/>
+      <url>/2022/01/29/4-shi-yong-hexo-da-jian-ge-ren-bo-ke/</url>
+      
+        <content type="html"><![CDATA[<h1 id="使用-Hexo-搭建个人博客"><a href="#使用-Hexo-搭建个人博客" class="headerlink" title="使用 Hexo 搭建个人博客"></a>使用 Hexo 搭建个人博客</h1><h3 id="Hexo-简介"><a href="#Hexo-简介" class="headerlink" title="Hexo 简介"></a>Hexo 简介</h3><p><strong>Hexo</strong> 是一个快速、简洁且高效的博客框架</p><p>中文官网：<a href="https://hexo.io/zh-cn/">https://hexo.io/zh-cn/</a></p><p><strong>注 ：建议全程挂代理运行，避免因网络问题报错</strong></p><h2 id="搭建所需的组件"><a href="#搭建所需的组件" class="headerlink" title="搭建所需的组件"></a>搭建所需的组件</h2><h3 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a>Node.js</h3><p>到官网下载相对应的版本：<a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a></p><p>按照默认配置安装即可</p><p>具体安装步骤可参考：<a href="https://www.cnblogs.com/zhouyu2017/p/6485265.html?from=note%20">https://www.cnblogs.com/zhouyu2017/p/6485265.html?from=note%20</a></p><p>安装完成后，在 CMD 界面输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">node -v# 检测 node 版本</span><br><span class="line">npm -v# 检测 npm 版本</span><br></pre></td></tr></table></figure><h3 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h3><p>到官网下载相对应的版本：<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a></p><p>按默认安装配置安装即可</p><p>具体安装步骤可参考：<a href="https://www.cnblogs.com/xueweisuoyong/p/11914045.html">https://www.cnblogs.com/xueweisuoyong/p/11914045.html</a></p><p>安装完成后，在 CMD 界面输入：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git --version# 检测 git 版本</span><br></pre></td></tr></table></figure><h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>进入 CMD ，输入下面的命令安装 hexo：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure><p>安装 hexo 后，使用：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure><p>检测是否成功安装</p><h2 id="创建-Github-仓库"><a href="#创建-Github-仓库" class="headerlink" title="创建 Github 仓库"></a>创建 Github 仓库</h2><p>点击右上的加号，选择 <strong>New repository</strong> </p><p>将 Repository name 设置为 <strong>你的昵称 .github.io</strong></p><p>然后点击下面的 <strong>Create repository</strong> 即可</p><h2 id="生成-SSH-密钥"><a href="#生成-SSH-密钥" class="headerlink" title="生成 SSH 密钥"></a>生成 SSH 密钥</h2><p>进入 CMD ：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;邮箱地址&quot;</span><br></pre></td></tr></table></figure><p>然后会自动在 <code>C:\Users\用户名\</code> 下生成<code>.ssh</code> 文件夹</p><p>进入 <code>C:\Users\用户名\.ssh</code> 文件夹可以找到 <code>id_rsa.pub</code> 文件，使用记事本打开该文件并<strong>复制其中的内容</strong></p><h3 id="将-SSH-与-Github-绑定"><a href="#将-SSH-与-Github-绑定" class="headerlink" title="将 SSH 与 Github 绑定"></a>将 SSH 与 Github 绑定</h3><h5 id="进入自己的-Github"><a href="#进入自己的-Github" class="headerlink" title="进入自己的 Github :"></a>进入自己的 Github :</h5><p>点击右上角的头像 - <strong>Setting</strong> - <strong>SSH and GPG keys</strong>:</p><p><img src="/medias/markdown_pic/4/image-20220129155020065.png"></p><h5 id="New-SSH-Key-创建一个新的-SSH-Key"><a href="#New-SSH-Key-创建一个新的-SSH-Key" class="headerlink" title="New SSH Key 创建一个新的 SSH Key :"></a>New SSH Key 创建一个新的 SSH Key :</h5><p>名称 <code>Title</code> 自定义，将刚才创建的 SSH 密钥粘贴到第二个 <code> Key</code> 输入框内</p><h5 id="测试-ssh-是否成功绑定："><a href="#测试-ssh-是否成功绑定：" class="headerlink" title="测试 ssh 是否成功绑定："></a>测试 ssh 是否成功绑定：</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><h2 id="使用-Hexo-创建初始博客"><a href="#使用-Hexo-创建初始博客" class="headerlink" title="使用 Hexo 创建初始博客"></a>使用 Hexo 创建初始博客</h2><p>创建一个文件夹，自己命名，并在 CMD 中进入该文件夹：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init # 初始化 hexo 博客</span><br></pre></td></tr></table></figure><p>成功创建后，可以通过：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure><p>在本地端口 127.0.0.1:4000 访问本地博客</p><h2 id="上传博客至-Github"><a href="#上传博客至-Github" class="headerlink" title="上传博客至 Github"></a>上传博客至 Github</h2><h5 id="进入文件夹，修改配置文件-config-yml"><a href="#进入文件夹，修改配置文件-config-yml" class="headerlink" title="进入文件夹，修改配置文件_config.yml :"></a>进入文件夹，修改配置文件<code>_config.yml</code> :</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repository: https://github.com/昵称/仓库名字.git</span><br><span class="line">branch: 分支名称（通常为：main）</span><br></pre></td></tr></table></figure><h5 id="然后安装-hexo-deployer-git-自动部署发布工具："><a href="#然后安装-hexo-deployer-git-自动部署发布工具：" class="headerlink" title="然后安装 hexo-deployer-git 自动部署发布工具："></a>然后安装 hexo-deployer-git 自动部署发布工具：</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><h5 id="最后上传至-Github-："><a href="#最后上传至-Github-：" class="headerlink" title="最后上传至 Github ："></a>最后上传至 Github ：</h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo d # 上传至 Github</span><br></pre></td></tr></table></figure><h5 id="首次上传需要验证-Github-账号及令牌-Password"><a href="#首次上传需要验证-Github-账号及令牌-Password" class="headerlink" title="首次上传需要验证 Github 账号及令牌(Password)"></a>首次上传需要验证 Github 账号及令牌(Password)</h5><p>令牌在 <strong>Github</strong> - <strong>Setting</strong> - <strong>Developer setting</strong> - <strong>Personal access tokens</strong> 中创建：</p><p><img src="/medias/markdown_pic/4/image-20220129155835721.png"></p><p><strong>注：每个令牌会且仅会在创建的时候显示一次，注意自己保存好</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Frp 实现内网穿透</title>
+      <link href="/2022/01/28/3-ji-yu-frp-shi-xian-nei-wang-chuan-tou/"/>
+      <url>/2022/01/28/3-ji-yu-frp-shi-xian-nei-wang-chuan-tou/</url>
+      
+        <content type="html"><![CDATA[<h1 id="基于-Frp-实现内网穿透"><a href="#基于-Frp-实现内网穿透" class="headerlink" title="基于 Frp 实现内网穿透"></a>基于 Frp 实现内网穿透</h1><h2 id="Frp-介绍"><a href="#Frp-介绍" class="headerlink" title="Frp 介绍"></a>Frp 介绍</h2><p>frp 是一个开源、简洁易用、高性能的内网穿透和反向代理软件，支持 tcp, udp, http, https等协议。</p><p>frp 项目官网是 <a href="https://github.com/fatedier/frp">https://github.com/fatedier/frp</a></p><p>中文官方文档地址：<a href="https://github.com/fatedier/frp/blob/master/README_zh.md">https://github.com/fatedier/frp/blob/master/README_zh.md</a></p><p>除了安装过程，中文文档对使用过程已经介绍的非常详细，如遇到问题，建议先查看官方文档。</p><p>frp工作原理为：</p><ol><li>服务端运行，监听一个主端口，等待客户端的连接；</li><li>客户端连接到服务端的主端口，同时告诉服务端要监听的端口和转发类型；</li><li>服务端fork新的进程监听客户端指定的端口；</li><li>外网用户连接到客户端指定的端口，服务端通过和客户端的连接将数据转发到客户端；</li><li>客户端进程再将数据转发到本地服务，从而实现内网对外暴露服务的能力。</li></ol><h2 id="Frp-服务端部署"><a href="#Frp-服务端部署" class="headerlink" title="Frp 服务端部署"></a>Frp 服务端部署</h2><p><strong>服务端建议部署在国内VPS、国内NAT VPS、国外CN2 GIA VPS上，以提供良好的访问体验。</strong></p><ol><li><p>去官网下载 Frp 最新版</p><p>也可以使用 wget 命令</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget https://github.com/fatedier/frp/releases/download/v0.33.0/frp_0.33.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure></li><li><p>服务器上解压安装包</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">tar -zxvf frp_0.33.0_linux_amd64.tar.gz</span><br></pre></td></tr></table></figure></li><li><p>进入解压好的目录</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd frp_0.33.0_linux_amd64</span><br></pre></td></tr></table></figure><p>编辑 <strong>frps.ini</strong> 文件：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">[common]</span><br><span class="line"># frp监听的端口，默认是7000，可以改成其他的</span><br><span class="line">bind_port = 7000</span><br><span class="line"># 授权码，请改成更复杂的</span><br><span class="line">token = 12345678</span><br><span class="line"></span><br><span class="line"># frp管理后台端口，请按自己需求更改</span><br><span class="line">dashboard_port = 7500</span><br><span class="line"># frp管理后台用户名和密码，请改成自己的</span><br><span class="line">dashboard_user = admin</span><br><span class="line">dashboard_pwd = admin</span><br><span class="line">enable_prometheus = true</span><br><span class="line"></span><br><span class="line"># frp日志配置</span><br><span class="line">log_file = /var/log/frps.log</span><br><span class="line">log_level = info</span><br><span class="line">log_max_days = 3</span><br></pre></td></tr></table></figure></li><li><p>设置和启动 frp 服务：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">mkdir -p /etc/frp</span><br><span class="line">cp frps.ini /etc/frp</span><br><span class="line">cp frps /usr/bin</span><br><span class="line">cp systemd/frps.service /usr/lib/systemd/system/</span><br><span class="line">systemctl enable frps</span><br><span class="line">systemctl start frps</span><br></pre></td></tr></table></figure></li><li><p>防火墙放行端口：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"># 添加监听端口</span><br><span class="line">firewall-cmd --permanent --add-port=7000/tcp</span><br><span class="line"># 添加管理后台端口</span><br><span class="line">firewall-cmd --permanent --add-port=7500/tcp</span><br><span class="line">firewall-cmd --reload</span><br></pre></td></tr></table></figure><p><strong>注意：</strong></p><ol><li><p><strong>如果是ubuntu或者centos 6，请使用ufw/iptables工具放行端口；</strong></p></li><li><p><strong>7000和7500两个端口记得改成和frps.ini配置的一样</strong></p></li></ol></li><li><p>浏览器打开“http://服务器IP:后台管理端口” ，输入用户名和密码可以查看连接状态：</p><p><img src="/medias/markdown_pic/3/1.png" alt="1"></p><p><strong>如果用的NAT VPS，端口应改成映射后的公网端口</strong></p></li></ol><h2 id="Frp-客户端部署"><a href="#Frp-客户端部署" class="headerlink" title="Frp 客户端部署"></a>Frp 客户端部署</h2><ol><li><p>还是下载 Frp 的安装包：<a href="https://github.com/fatedier/frp/releases">https://github.com/fatedier/frp/releases</a></p><p>（注：官网的 Mac os 系统标注为 Darwin）</p></li><li><p>解压并进入文件夹内</p></li><li><p>编辑 <strong>frpc.ini</strong> 文件：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"># 服务端配置</span><br><span class="line">[common]</span><br><span class="line">server_addr = 服务器ip</span><br><span class="line"># 请换成设置的服务器端口</span><br><span class="line">server_port = 7000</span><br><span class="line">token = 12345678</span><br><span class="line"></span><br><span class="line"># 配置ssh服务</span><br><span class="line">[ssh]</span><br><span class="line">type = tcp</span><br><span class="line">local_ip = 127.0.0.1</span><br><span class="line">local_port = 22</span><br><span class="line">remote_port = 自定义的远程服务器端口，例如2222</span><br><span class="line"></span><br><span class="line"># 配置http服务，可用于小程序开发、远程调试等</span><br><span class="line">[web]</span><br><span class="line">type = http</span><br><span class="line">local_ip = 127.0.0.1</span><br><span class="line">local_port = 8080</span><br><span class="line">subdomain = test.hijk.pw</span><br><span class="line">remote_port = 自定义的远程服务器端口，例如8080</span><br></pre></td></tr></table></figure><p><strong>注意：</strong></p><ol><li><p><strong>一个服务端可以同时给多个客户端使用</strong></p></li><li><p><strong>[ssh]这样的名称必须全局唯一，即就算有多个客户端，也只能使用一次，其他的可以用[ssh2]、[ssh3]等；</strong></p></li><li><p><strong>除了type为http/https，端口只能被一个服务使用</strong></p></li><li><p><strong>如果用的nat vps，remote_port请改成映射后的端口</strong></p></li></ol></li><li><p>登录服务器，防火墙放行监听端口：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">firewall-cmd --permanent --add-port=2222/tcp</span><br><span class="line">firewall-cmd --permanent --add-port=8080/tcp</span><br><span class="line">firewall-cmd --reload</span><br></pre></td></tr></table></figure></li><li><p>以 Windows 10 为例：</p><p>进入 CMD，进入 Frp 解压后的文件夹，运行命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">frpc.exe -c frpc.ini</span><br></pre></td></tr></table></figure><p>注意：Mac 需要修改文件权限 <code>sudo chmod 777 frpc</code></p></li><li><p>登录 Frp 管理后台，可以看到客户端已经连接上来了：</p><p><img src="/medias/markdown_pic/3/2.png" alt="2"></p></li></ol><p><strong>参考链接：<a href="https://tlanyan.pp.ua/frp-tunnel-tutorial/">https://tlanyan.pp.ua/frp-tunnel-tutorial/</a></strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Frp </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在 Linux 下部署 Clash</title>
+      <link href="/2022/01/28/2-linux-xia-pei-zhi-clash/"/>
+      <url>/2022/01/28/2-linux-xia-pei-zhi-clash/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Linux-下配置-Clash"><a href="#Linux-下配置-Clash" class="headerlink" title="Linux 下配置 Clash"></a>Linux 下配置 Clash</h1><h3 id="首先到官网下载文件"><a href="#首先到官网下载文件" class="headerlink" title="首先到官网下载文件"></a>首先到官网下载文件</h3><p><a href="https://github.com/Dreamacro/clash">https://github.com/Dreamacro/clash</a></p><p><img src="/medias/markdown_pic/2/1.png" alt="1"></p><h3 id="解压到当前文件夹"><a href="#解压到当前文件夹" class="headerlink" title="解压到当前文件夹"></a>解压到当前文件夹</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">gzip -f clash.gz -d</span><br></pre></td></tr></table></figure><p>或者直接使用图形化界面解决</p><h3 id="赋予可执行权限"><a href="#赋予可执行权限" class="headerlink" title="赋予可执行权限"></a>赋予可执行权限</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">chmod +x clash</span><br></pre></td></tr></table></figure><h3 id="执行-Clash-，完成初始化"><a href="#执行-Clash-，完成初始化" class="headerlink" title="执行 Clash ，完成初始化"></a>执行 Clash ，完成初始化</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./clash</span><br></pre></td></tr></table></figure><p>初始化会默认在<code>~/.config/clash</code>目录下生成<strong>配置文件</strong>和<strong>全球IP地址库</strong>:</p><p><code> config.yaml</code>和<code> Country.mmdb</code></p><p><img src="/medias/markdown_pic/2/2.png" alt="2"></p><h3 id="配置-Clash"><a href="#配置-Clash" class="headerlink" title="配置 Clash"></a>配置 Clash</h3><h4 id="config-yaml-的配置"><a href="#config-yaml-的配置" class="headerlink" title="config.yaml 的配置"></a>config.yaml 的配置</h4><p>可以去 Windows 端或 Mac 端的 Clash 获取 config.yaml 文件，然后将其中的内容粘贴到 Linux 下的配置文件中</p><h4 id="Country-mmdb-的配置"><a href="#Country-mmdb-的配置" class="headerlink" title="Country.mmdb 的配置"></a>Country.mmdb 的配置</h4><p>百度下载，并将其与原本的库替换</p><h3 id="在-Web-端进行配置"><a href="#在-Web-端进行配置" class="headerlink" title="在 Web 端进行配置"></a>在 Web 端进行配置</h3><p><a href="http://clash.razord.top/#/proxies">http://clash.razord.top/#/proxies</a></p><p>Web 配置端口号 <code>9090</code> 可以从配置文件的 <code>external-controller</code> 找到</p><p><img src="/medias/markdown_pic/2/3.png" alt="3"></p><h3 id="设置系统代理"><a href="#设置系统代理" class="headerlink" title="设置系统代理"></a>设置系统代理</h3><p>进入系统设置-网络-代理</p><p>将端口号一一对应</p><p><img src="/medias/markdown_pic/2/4.png" alt="4"></p><h3 id="关于-git-clone-的问题："><a href="#关于-git-clone-的问题：" class="headerlink" title="关于 git clone 的问题："></a>关于 git clone 的问题：</h3><p>由于 clash 代理的是 socket5 ,而 github 是socket4</p><p>修复方法:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 7891 是 clash 代理 socket 的端口</span><br><span class="line">git config --global http.proxy &#x27;socks5://127.0.0.1:7891&#x27;</span><br><span class="line">git config --global https.proxy &#x27;socks5://127.0.0.1:7891&#x27;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> Linux </tag>
+            
+            <tag> Clash </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇 测试文章</title>
+      <link href="/2022/01/27/1/"/>
+      <url>/2022/01/27/1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><p>正文</p><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><p>正文</p><h3 id="三级标题-1"><a href="#三级标题-1" class="headerlink" title="三级标题"></a>三级标题</h3><p>正文</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 代码块</span></span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello World!&quot;</span>)</span><br></pre></td></tr></table></figure><h2 id="二级标题-1"><a href="#二级标题-1" class="headerlink" title="二级标题"></a>二级标题</h2><p>正文</p><h1 id="一级标题-1"><a href="#一级标题-1" class="headerlink" title="一级标题"></a>一级标题</h1><p><strong>加粗正文</strong></p><h1 id="图片测试"><a href="#图片测试" class="headerlink" title="图片测试"></a>图片测试</h1><p><img src="/medias/markdown_pic/1/head.png" alt="me"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+            <tag> 纪念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
